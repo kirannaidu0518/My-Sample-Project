@@ -18,7 +18,7 @@
 <apex:inputField value="{!account.Contacts__c}"/>
 <apex:inputField value="{!account.SLA__c}"/>
 <apex:inputField value="{!account.University__c}"/>
-<apex:inputField value="{!account.SLASerialNumber__c}"/>
+
 </apex:pageBlockSection>
 
 </apex:pageBlock>
