@@ -16,7 +16,7 @@
 <apex:pageBlockSection title="My Custom Fields" columns="3">
 <apex:inputField value="{!account.Active__c}"/>
 <apex:inputField value="{!account.Contacts__c}"/>
-<apex:inputField value="{!account.SLA__c}"/>
+
 <apex:inputField value="{!account.University__c}"/>
 
 </apex:pageBlockSection>
